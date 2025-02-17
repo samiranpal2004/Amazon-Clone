@@ -57,4 +57,4 @@ Feel free to fork the repository and contribute by submitting a pull request.
 
 📧 Contact
 
-If you have any questions, feel free to reach out at your-email@example.com.
+If you have any questions, feel free to reach out at palsamiranpal2004@gmail.com.
