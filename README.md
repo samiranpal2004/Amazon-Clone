@@ -2,7 +2,7 @@ Amazon Clone
 
 📌 Project Description
 
-This is a fully responsive Amazon Clone built using HTML, CSS, and JavaScript. The project mimics the frontend design of Amazon's homepage, featuring a navigation bar, product listings, and a footer.
+This is a fully responsive Amazon Clone built using HTML, CSS. The project mimics the frontend design of Amazon's homepage, featuring a navigation bar, product listings, and a footer.
 
 ✨ Features
 
@@ -23,8 +23,6 @@ Footer section with useful links
 HTML
 
 CSS
-
-JavaScript
 
 📂 How to Run the Project
 
